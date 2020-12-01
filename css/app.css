@@ -87,6 +87,17 @@ h1, h2, h3, h4 {
   font-weight: bold;
 }
 
+.story {
+  width: 100%;
+  text-align: justify;
+}
+
+.story h5, p {
+  width: 100%;
+  color: #0a0a0a;
+  text-align: justify;
+}
+
 /* ================================= */
 
 /* STICKY SHRINK NAVBAR */
