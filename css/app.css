@@ -1,6 +1,11 @@
-
 body {
   /* padding-top: 330px; */
+}
+
+.brand {
+  color: white;
+  text-align: right;
+  right: 10%;
 }
 
 h1, h2, h3, h4 {
@@ -44,6 +49,10 @@ h1, h2, h3, h4 {
 .hero-full-screen .middle-content-section h1, p {
   text-align: right;
   margin-right: -80%;
+  color: #fefefe;
+}
+
+.middle-content-section h1, p {
   color: #fefefe;
 }
 
