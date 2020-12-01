@@ -41,8 +41,9 @@ h1, h2, h3, h4 {
   background-size: cover;
 }
 
-.hero-full-screen .middle-content-section {
-  text-align: center;
+.hero-full-screen .middle-content-section h1, p {
+  text-align: right;
+  margin-right: -80%;
   color: #fefefe;
 }
 
